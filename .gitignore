@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 __pycache__/
 .ipynb_checkpoints/
 *.pyc
+=======
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+>>>>>>> 160c2d0dd98c8df545f6842daec80d5773225afe
 .env

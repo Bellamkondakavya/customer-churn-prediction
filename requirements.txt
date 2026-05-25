@@ -1,7 +1,16 @@
+<<<<<<< HEAD
 pandas
 numpy
 matplotlib
 seaborn
 scikit-learn
 streamlit
+=======
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+streamlit
+>>>>>>> 160c2d0dd98c8df545f6842daec80d5773225afe
 pickle-mixin
